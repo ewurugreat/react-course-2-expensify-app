@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AEAA,AAAA,IAAI,CAAA;EACA,SAAS,EAAE,KAAK;CACnB;;AAED,AAAA,IAAI,CAAA;EACA,WAAW,EAAE,4BAA4B;EACzC,SAAS,EDFJ,MAAM;CCId;;AAED,AAAA,EAAE,CAAA;EACE,SAAS,EAAE,MAAM;CACpB;;AAED,AAAA,MAAM,CAAA;EACF,MAAM,EAAE,OAAO;CAClB;;AACD,AAAA,UAAU,CAAA;EACN,WAAW,EAAE,IAAI;CACpB",
+    "sources": [
+        "../../../portfolio-site1/src/stylesg/styles.scss",
+        "../../../portfolio-site1/src/stylesg/base/_settings.scss",
+        "../../../portfolio-site1/src/stylesg/base/_base.scss"
+    ],
+    "names": [],
+    "file": "styles.css"
+}

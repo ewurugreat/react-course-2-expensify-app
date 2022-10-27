@@ -1,0 +1,21 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-family: helvetica, arial, sans-serif;
+    font-size: $m-size;
+// background-color: red;
+}
+
+h1{
+    font-size: 2.2rem;
+}
+
+button{
+    cursor: pointer;
+}
+.is-active{
+    font-weight: bold;
+}
+
